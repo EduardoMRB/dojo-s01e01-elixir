@@ -1,5 +1,5 @@
 # Dojo DevMT S01E01 (em Elixir)
-[![BuildStatus](https://travis-ci.org/eduardomrb/dojo-s01e01-elixir.svg?branch=master)](https://travis-ci.org/eduardomrb/dojo-s01e01-elixir)
+[![BuildStatus](https://api.travis-ci.org/EduardoMRB/dojo-s01e01-elixir.svg?branch=master)](https://travis-ci.org/EduardoMRB/dojo-s01e01-elixir)
 
 #### Versão original desenvolvida em C#. [Disponivel aqui](https://github.com/devmatogrosso/dojo-s01e01-cheque-por-extenso)
 

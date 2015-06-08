@@ -21,6 +21,10 @@ defmodule ChequeTest do
     assert humanize(5) == "cinco reais"
   end
 
+  test "seis reais" do
+    assert humanize(6) == "seis reais"
+  end
+
   test "nove reais" do
     assert humanize(9) == "nove reais"
   end
